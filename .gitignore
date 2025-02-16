@@ -1,0 +1,4 @@
+.nk
+lightning_logs
+*.out
+checkpoints
